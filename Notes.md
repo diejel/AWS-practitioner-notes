@@ -19,3 +19,10 @@
     - Utilize hardware accelerators
 - Storage optimized
     - High performance for locally stored data
+
+### Amazon EC2 pricing ###
+a) On-demand
+b) Savings plans
+c) Reserved instances
+d) Spot Instances
+e) Dedicated hosts
