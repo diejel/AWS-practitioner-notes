@@ -22,7 +22,11 @@
 
 ### Amazon EC2 pricing ###
 a) On-demand
+
 b) Savings plans
+
 c) Reserved instances
+
 d) Spot Instances
+
 e) Dedicated hosts
